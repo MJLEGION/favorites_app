@@ -1,0 +1,16 @@
+name: favorites_app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you want to publish to pub.dev
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+
+flutter:
+  assets:
+    - asset/icon/staricon.png
